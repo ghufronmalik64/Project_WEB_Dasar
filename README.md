@@ -11,7 +11,7 @@ Project yang saya kerjakan hanya menggunakan Cascading Style Sheets (CSS) karena
 
 ![IMG1](image/2.png)
 ![IMG1](image/3.png)
-![IMG1](image/4.png.png)
+![IMG1](image/4.png)
 
 
 # Have a nice day
